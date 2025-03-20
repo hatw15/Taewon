@@ -1,2 +1,2 @@
 # Hi
-I'm currently pursuing my Master's degree in the Department of Smart Factory Convergence at Sungkyunkwan University.
+I'm currently a Master's student in the Department of Smart Factory Convergence at Sungkyunkwan University.
